@@ -14,7 +14,7 @@
 1.   smaller than `AutoML` ensemble model params that stacked many models in many layers (e.g. WeightEnsembleL2/L3 from AutoGluon)
 
 2.   obtain `81.25% accuracy`✅ by containing only `176 parameters`! which is smaller than the professor model (neural network with 209params achieving 76% accuracy)
-<img align="middle" width="900" src="https://github.com/Nardien/KALA/blob/master/images/concept_fig.png">
+<img align="middle" width="500" src="https://github.com/pavaris-pm/FeaturizedConvolution-Network/blob/main/custommodel_size_new.PNG">
 
 4. faster training time `(<30 seconds even when performing cross-validation)` even it utilize CPU as an accelerator ⚡
 
